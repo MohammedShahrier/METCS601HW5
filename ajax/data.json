@@ -1,0 +1,19 @@
+[{
+    "School":"Grammar School",
+    "Major":"Science",
+    "Type":"AA",
+    "YearConferred":"2020"
+    },
+    {
+    "School":"College",
+    "Major":"Engineering",
+    "Type":"BS",
+    "YearConferred":"2025"
+    },
+    {
+      "School":"University",
+      "Major":"Engineering",
+      "Type":"MS",
+      "YearConferred":"2030"
+      }
+  ]

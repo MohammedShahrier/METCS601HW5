@@ -1,0 +1,1 @@
+click the get data button to fetch the data stored in the url which is a json data than it converts the data into an array and than build a table with information that it gets from the url.
